@@ -1,4 +1,4 @@
-# Factorial of a number using recursion
+l# Factorial of a number using recursion
 
 def recur_factorial(n):
    if n == 1:
